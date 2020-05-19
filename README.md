@@ -10,11 +10,11 @@ Followed by the questions and its four options and the correct answer.
 
 Suppose This to be your text editor -
 
-'''csv
+```csv
 
 **   /* LEAVE FIRST LINE EMPTY */**
 **question,answer1,answer2,answer3,answer4,correct_answer                     // Add Questions here line by line as many you want**
 **question,answer1,answer2,answer3,answer4,correct_answer**
  ...
  ...
-'''
+```
