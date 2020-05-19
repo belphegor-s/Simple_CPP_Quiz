@@ -9,11 +9,11 @@ To add questions, Simply first open "questions.csv" in any basic text editor ( e
 Followed by the questions and its four options and the correct answer.
 
 Suppose This to be your text editor -
-_________________________________________________________
+>**_________________________________________________________
 |   /* LEAVE FIRST LINE EMPTY */
 |question,answer1,answer2,answer3,answer4,correct_answer                     // Add Questions here line by line as many you want
 |question,answer1,answer2,answer3,answer4,correct_answer
 | ...
 | ...
 |
-|
+|**
