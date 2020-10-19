@@ -39,7 +39,7 @@ void Interface()
     cout<<"\n\n\t\t\tEnter your Name : ";
 
     string p_name;
-    cin>>p_name; 
+    getline(cin,p_name); 
 
     system("cls");
 
@@ -80,7 +80,7 @@ int main()
 
 	
 
-	Interface();
+	Interface();  //Call for the main Interface
      
     string line; // To read line from .csv file 
 	
