@@ -30,4 +30,4 @@ question,answer1,answer2,answer3,answer4,correct_answer
 ![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/4.png)
 
 
-~~ _Any Contributions are WELCOME_ - @belphegor-s ~~
+~~_Any Contributions are WELCOME_ - @belphegor-s~~
