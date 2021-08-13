@@ -21,13 +21,13 @@ question,answer1,answer2,answer3,answer4,correct_answer
 
 ### Some Snaps : 
 
-![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/cpp_quiz_1.JPG)
+![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/1.png)
 
-![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/cpp_quiz_2.JPG)
+![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/2.png)
 
-![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/cpp_quiz_3.JPG)
+![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/3.png)
 
-![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/cpp_quiz_4.JPG)
+![cpp_quiz](https://github.com/belphegor-s/Simple_CPP_Quiz/blob/master/assets/4.png)
 
 
-_Any Contributions are WELCOME_ - @belphegor-s
+~~ _Any Contributions are WELCOME_ - @belphegor-s ~~
